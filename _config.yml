@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Desarrollo web para latinos
 header-img: img/home-bg.png
 email: u70391278@continental.edu.pe
 copyright_name: frenre29
 description: > # this means to ignore newlines until "baseurl:"
-  
+  La informática es una apuesta a todo o nada... pero lo lograremos!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  frenre29
